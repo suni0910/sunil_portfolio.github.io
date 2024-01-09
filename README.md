@@ -44,30 +44,20 @@ Duration: Aug 2023
 Responsibilities: Raise awareness among students about the 17 UN Sustainable Development Goals, instilling a sense of global responsibility.
 
 ### Software Skills
-Web Development: HTML, CSS, JAVASCRIPT, ASP.NET.
-
-Programming Languages: C, PYTHON, JAVA, Go
-
-Database: DBMS, SQL.
-
-Advanced Technologies: Cyber Security Tools, Forensic Tools, Cryptography, Blockchain, and Technology.
-
+Web Development: HTML, CSS, JAVASCRIPT, ASP.NET. 
+Programming Languages: C, PYTHON, JAVA, Go 
+Database: DBMS, SQL.  
+Advanced Technologies: Cyber Security Tools, Forensic Tools, Cryptography, Blockchain, and Technology. 
 Others: Linux, Networking, Machine Learning, MS OFFICE, etc.
 
 ### Certifications
-NPTEL Certification on PYTHON for Data Science.
-
-Certificate on workshop of Cybersecurity and Ethical Hacking by ditto.
-
+NPTEL Certification on PYTHON for Data Science. 
+Certificate on workshop of Cybersecurity and Ethical Hacking by ditto. 
 Certificate on a 5-day workshop on Blockchain and Technology.
-
-Certificate on the Participation in the MATLAB and Data Science Workshop.
-
-Certificate of Participation for ZeroBug'2k23 in the CTF Tournament.
+Certificate on the Participation in the MATLAB and Data Science Workshop. 
+Certificate of Participation for ZeroBug'2k23 in the CTF Tournament. 
 
 ### Area of Interests
-CTF Playing and BUG BOUNTY Learning
-
+CTF Playing and BUG BOUNTY Learning.  
 Internet Surfing
-
 Reading Tech-Related Blogs
