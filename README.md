@@ -45,9 +45,13 @@ Responsibilities: Raise awareness among students about the 17 UN Sustainable Dev
 
 ### Software Skills
 Web Development: HTML, CSS, JAVASCRIPT, ASP.NET. 
+
 Programming Languages: C, PYTHON, JAVA, Go 
+
 Database: DBMS, SQL.  
+
 Advanced Technologies: Cyber Security Tools, Forensic Tools, Cryptography, Blockchain, and Technology. 
+
 Others: Linux, Networking, Machine Learning, MS OFFICE, etc.
 
 ### Certifications
