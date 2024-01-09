@@ -4,20 +4,22 @@
 To acquire new skills and knowledge to enhance my professional capabilities in a challenging and dynamic environment. Seeking a position in a company where I can utilize my skills and abilities to grow and develop professionally.
 
 ### Education
+[Post Graduation ]
 M. Sc  Computer Science (Cyber Security)
 Deemed University 
 Rajiv Gandhi National Institute of Youth Development
-Year: 22-24
+Year: 2022-24
 CGPA: 8.1
 
+[Under Graduation]
 B.C.A(Informatics)
 Osmania University, Nizam College
-Year: 19-22
+Year: 2019-22
 CGPA: 9.3
-Intermediate (M.P.C)
 
+[Intermediate (M.P.C)]
 TSBIE Sai Shivani Junior College
-Year: 17-19
+Year: 2017-19
 Percentage: 98%
 
 ### Projects
@@ -65,5 +67,7 @@ Certificate of Participation for ZeroBug'2k23 in the CTF Tournament.
 
 ### Area of Interests
 CTF Playing and BUG BOUNTY Learning
+
 Internet Surfing
+
 Reading Tech-Related Blogs
