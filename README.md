@@ -24,13 +24,10 @@ Percentage: 98%
 
 ### Projects
 Smart Agriculture Prediction and Notification System using Machine Learning
-Duration: Jan-May 2022
 
 Cyber Attack Detection and Notification System using ML Techniques
-Duration: July-Aug 2023
 
 IPL Auction and Winner Analysis using ML Techniques
-Duration: July-Aug 2023
 
 Implementation of Spatial Domain LSB Image Steganography Algorithm
 
@@ -40,7 +37,7 @@ Implementation of Blockchain Technology using GO Language
 STEM INTERN
 
 ExEMPLER Education Linkers Foundation, Chennai
-Duration: Aug 2023
+    Duration: Aug 2023
 Responsibilities: Raise awareness among students about the 17 UN Sustainable Development Goals, instilling a sense of global responsibility.
 
 ### Software Skills
