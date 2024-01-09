@@ -36,7 +36,7 @@ Percentage: 98%
 ### Internship
 STEM INTERN
 
-ExEMPLER Education Linkers Foundation, Chennai
+ExTEMPLER Education Linkers Foundation, Chennai
     Duration: Aug 2023
 Responsibilities: Raise awareness among students about the 17 UN Sustainable Development Goals, instilling a sense of global responsibility.
 
@@ -52,15 +52,15 @@ Responsibilities: Raise awareness among students about the 17 UN Sustainable Dev
 - Others: Linux, Networking, Machine Learning, MS OFFICE, etc.
 
 ### Certifications
-NPTEL Certification on PYTHON for Data Science.
+- NPTEL Certification on PYTHON for Data Science.
 
-Certificate on workshop of Cybersecurity and Ethical Hacking by ditto. 
+- Certificate on workshop of Cybersecurity and Ethical Hacking by ditto. 
 
-Certificate on a 5-day workshop on Blockchain and Technology.
+- Certificate on a 5-day workshop on Blockchain and Technology.
 
-Certificate on the Participation in the MATLAB and Data Science Workshop. 
+- Certificate on the Participation in the MATLAB and Data Science Workshop. 
 
-Certificate of Participation for ZeroBug'2k23 in the CTF Tournament. 
+- Certificate of Participation for ZeroBug'2k23 in the CTF Tournament. 
 
 ### Area of Interests
 CTF Playing and BUG BOUNTY Learning.  
