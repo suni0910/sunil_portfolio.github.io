@@ -51,13 +51,17 @@ Advanced Technologies: Cyber Security Tools, Forensic Tools, Cryptography, Block
 Others: Linux, Networking, Machine Learning, MS OFFICE, etc.
 
 ### Certifications
-NPTEL Certification on PYTHON for Data Science. 
+NPTEL Certification on PYTHON for Data Science.
+
 Certificate on workshop of Cybersecurity and Ethical Hacking by ditto. 
+
 Certificate on a 5-day workshop on Blockchain and Technology.
+
 Certificate on the Participation in the MATLAB and Data Science Workshop. 
+
 Certificate of Participation for ZeroBug'2k23 in the CTF Tournament. 
 
 ### Area of Interests
 CTF Playing and BUG BOUNTY Learning.  
-Internet Surfing
+Internet Surfing,
 Reading Tech-Related Blogs
