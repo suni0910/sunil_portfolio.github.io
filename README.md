@@ -4,34 +4,34 @@
 To acquire new skills and knowledge to enhance my professional capabilities in a challenging and dynamic environment. Seeking a position in a company where I can utilize my skills and abilities to grow and develop professionally.
 
 ### Education
-[Post Graduation ]
+- [Post Graduation ]
 M. Sc  Computer Science (Cyber Security)
 Deemed University 
 Rajiv Gandhi National Institute of Youth Development
-Year: 2022-24
 CGPA: 8.1
+(_June 2024_)
 
-[Under Graduation]
+- [Under Graduation]
 B.C.A(Informatics)
 Osmania University, Nizam College
-Year: 2019-22
 CGPA: 9.3
+(_June 2022_)
 
-[Intermediate (M.P.C)]
+- [Intermediate (M.P.C)]
 TSBIE Sai Shivani Junior College
-Year: 2017-19
 Percentage: 98%
+(_March 2017_)
 
 ### Projects
-Smart Agriculture Prediction and Notification System using Machine Learning
+- Smart Agriculture Prediction and Notification System using Machine Learning
 
-Cyber Attack Detection and Notification System using ML Techniques
+- Cyber Attack Detection and Notification System using ML Techniques
 
-IPL Auction and Winner Analysis using ML Techniques
+- IPL Auction and Winner Analysis using ML Techniques
 
-Implementation of Spatial Domain LSB Image Steganography Algorithm
+- Implementation of Spatial Domain LSB Image Steganography Algorithm
 
-Implementation of Blockchain Technology using GO Language
+- Implementation of Blockchain Technology using GO Language
 
 ### Internship
 STEM INTERN
@@ -41,15 +41,15 @@ ExEMPLER Education Linkers Foundation, Chennai
 Responsibilities: Raise awareness among students about the 17 UN Sustainable Development Goals, instilling a sense of global responsibility.
 
 ### Software Skills
-Web Development: HTML, CSS, JAVASCRIPT, ASP.NET. 
+- Web Development: HTML, CSS, JAVASCRIPT, ASP.NET. 
 
-Programming Languages: C, PYTHON, JAVA, Go 
+- Programming Languages: C, PYTHON, JAVA, Go 
 
-Database: DBMS, SQL.  
+- Database: DBMS, SQL.  
 
-Advanced Technologies: Cyber Security Tools, Forensic Tools, Cryptography, Blockchain, and Technology. 
+- Advanced Technologies: Cyber Security Tools, Forensic Tools, Cryptography, Blockchain, and Technology. 
 
-Others: Linux, Networking, Machine Learning, MS OFFICE, etc.
+- Others: Linux, Networking, Machine Learning, MS OFFICE, etc.
 
 ### Certifications
 NPTEL Certification on PYTHON for Data Science.
